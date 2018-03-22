@@ -2,6 +2,12 @@
 Plyvel
 ======
 
+
+when install the electrum-momo-server,the plyvel alway wrong,Please install follow travis.sh
+Plyvel need libleveldb 1.2 important !!!!
+
+
+
 .. image:: https://travis-ci.org/wbolster/plyvel.svg?branch=master
     :target: https://travis-ci.org/wbolster/plyvel
 
